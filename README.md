@@ -1,17 +1,23 @@
-### Hi there 👋
-
-
-
-
-
-
+### <h1 align="center">Hi there 👋</h1> 
+<br/>
+<p align="center"><img alt="GIF" src="https://github.com/olcayertasmis/olcayertasmis/blob/main/original.jpg" width="500" height="350" /></p>
+<p align="center">
+  <br/>
 - 🔭 I’m currently working on unity
+  <br />
 - 🌱 I’m currently learning unity
+  <br />
 - 👯 I’m looking to collaborate on unity
+  <br />
 - 🤔 I’m looking for help with design
+  <br />
 - 💬 Ask me about me
+  <br />
 - 😄 Pronouns: ogi
+  <br />
 - ⚡ Fun fact: life
+  <br />
+  </p>
 <h3 align="left">Connect with me:</h3>
 <br />
 <a align="center" href="https://www.linkedin.com/in/olcay-erta%C5%9Fm%C4%B1%C5%9F-b44a971b1/" align="center">
