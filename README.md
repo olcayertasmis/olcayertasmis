@@ -1,8 +1,8 @@
-### <h1 align="center">Hi there 👋
-I am computer engineering</h1>
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">💻Im computer engineer💻</h2>
 
 <br/>
-<p align="center"><img alt="GIF" src="https://github.com/olcayertasmis/olcayertasmis/blob/main/original.jpg" width="500" height="350" /></p>
+<p align="center"><img alt="GIF" src="https://github.com/olcayertasmis/olcayertasmis/blob/main/original.jpg" width="768" height="432" /></p>
 <p align="center">
   <br/>
  🔭 I’m currently working on unity 🔭
