@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi there 👋
-I am computer engineering
-</h1>
+I am computer engineering</h1>
+
 <br/>
 <p align="center"><img alt="GIF" src="https://github.com/olcayertasmis/olcayertasmis/blob/main/original.jpg" width="500" height="350" /></p>
 <p align="center">
